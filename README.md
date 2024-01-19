@@ -3,7 +3,7 @@
 This project shows how to use Quarkus Dapr extension.
 
 
-## 1. Clone mcruzdev/quarkus-dapr
+### Using the application
 
 Clone the **mcruzdev/quarkus-dapr** extension branhc: `try-extension`.
 
