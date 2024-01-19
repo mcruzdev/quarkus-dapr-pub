@@ -1,5 +1,30 @@
 # quarkus-dapr-pub
 
+This project shows how to use Quarkus Dapr extension.
+
+
+## 1. Clone mcruzdev/quarkus-dapr
+
+Clone the **mcruzdev/quarkus-dapr** extension branhc: `try-extension`.
+
+
+Install with Maven:
+
+```sh
+mvn clean install
+```
+
+This project already is configured to use the version from the local maven repository.
+
+```xml
+    <dependency>
+      <groupId>io.quarkiverse.dapr</groupId>
+      <artifactId>quarkus-dapr</artifactId>
+      <version>999-SNAPSHOT</version>
+    </dependency>
+```
+---
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
