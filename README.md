@@ -7,6 +7,15 @@ This project shows how to use Quarkus Dapr extension.
 
 Clone the **mcruzdev/quarkus-dapr** extension branhc: `try-extension`.
 
+```sh
+git clone git@github.com:mcruzdev/quarkus-dapr.git
+```
+
+Go to the `try-devservices` branch:
+
+```sh
+git checkout try-devservices
+```
 
 Install with Maven:
 
